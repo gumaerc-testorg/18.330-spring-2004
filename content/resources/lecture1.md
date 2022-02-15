@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Lecture handout.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-330-introduction-to-numerical-analysis-spring-2004/38378596621437479344428af1b4c567_lecture1.pdf
+file: /media/courses/18-330-introduction-to-numerical-analysis-spring-2004/38378596621437479344428af1b4c567_lecture1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture1.pdf
 uid: 38378596-6214-3747-9344-428af1b4c567

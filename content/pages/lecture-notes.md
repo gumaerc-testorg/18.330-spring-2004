@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 2c697219-37f5-8316-a069-d0e5bb8a5de7
 ---
@@ -92,7 +95,7 @@ Rates of Convergence ([PDF]({{< baseurl >}}/resources/ratesofconvergence))
 
 One e = 0.6 Kepler Orbit ([PDF]({{< baseurl >}}/resources/lecture15))
 
-Toward J0 (r) ([PDF]({{< baseurl >}}/resources/lecture16))
+Toward J{{< sub "0" >}} (r) ([PDF]({{< baseurl >}}/resources/lecture16))
 
 
 {{< tdclose >}}

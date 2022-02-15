@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource has problems for extrapolation, Jacobi rotations, and Gauss-Seidel
   or SOR or eigenfunction.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-330-introduction-to-numerical-analysis-spring-2004/e44a77ca173ff1c4233cd2326955e0eb_assignment12.pdf
+file: /media/courses/18-330-introduction-to-numerical-analysis-spring-2004/e44a77ca173ff1c4233cd2326955e0eb_assignment12.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: assignment12.pdf
 uid: e44a77ca-173f-f1c4-233c-d2326955e0eb
