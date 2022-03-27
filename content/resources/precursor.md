@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 2c697219-37f5-8316-a069-d0e5bb8a5de7
 resourcetype: Document
 title: PREcursor.pdf
 uid: 449a0369-5d40-16de-e09f-6c3b1da75998
