@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the lecture topics covered in this course and the
+  number of sessions for each lecture.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar

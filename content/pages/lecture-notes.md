@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains the list of the lecture topics and the files associated
+  with them.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -31,13 +33,13 @@ HANDOUTS
 Root Finding: Solutions of Equations in One Variable (and some Roots of Nonlinear Systems)
 {{< tdclose >}}
 {{< tdopen >}}
-Aitken Extrapolations ([PDF]({{< baseurl >}}/resources/lecture1))
+Aitken Extrapolations ({{% resource_link 38378596-6214-3747-9344-428af1b4c567 "PDF" %}})
 
-Wallis Equation ([PDF]({{< baseurl >}}/resources/lecture2))
+Wallis Equation ({{% resource_link 40f37ab5-70e2-16f0-743e-ef752ca23f41 "PDF" %}})
 
-2-D Newton ([PDF]({{< baseurl >}}/resources/lecture3))
+2-D Newton ({{% resource_link 62e30b31-5341-5d9b-6110-c504c6b93258 "PDF" %}})
 
-Bairstow's Method ([PDF]({{< baseurl >}}/resources/lecture4))
+Bairstow's Method ({{% resource_link c94aaad5-7312-8a66-aacf-f5fb59be3305 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -53,25 +55,25 @@ Quadrature: Numerical Integration (and some Lagrange Interpolation)
 {{< tdopen >}}
 
 
-Quadrature ([PDF]({{< baseurl >}}/resources/lecture5))
+Quadrature ({{% resource_link 5f7198ed-633b-1a15-e453-0a0554408b93 "PDF" %}})
 
-Newton-Cotes ([PDF]({{< baseurl >}}/resources/lecture6))
+Newton-Cotes ({{% resource_link 85924167-2d63-4190-97be-523f77f7072a "PDF" %}})
 
-Polynomial Interpolation ([PDF]({{< baseurl >}}/resources/lecture7))
+Polynomial Interpolation ({{% resource_link ccd31ad5-6bc7-8355-16c5-84dd1e920516 "PDF" %}})
 
-Bernoulli Polynomials ([PDF]({{< baseurl >}}/resources/lecture8))
+Bernoulli Polynomials ({{% resource_link 03c1fd75-760a-3ee6-401f-f65da9cedb89 "PDF" %}})
 
-Bernoulli Numbers ([PDF]({{< baseurl >}}/resources/bernoullino))
+Bernoulli Numbers ({{% resource_link 3ebc6284-eeca-ad06-c66f-de5b29bebb53 "PDF" %}})
 
-Some Numerical Fun with Euler/Maclaurin ([PDF]({{< baseurl >}}/resources/lecture9))
+Some Numerical Fun with Euler/Maclaurin ({{% resource_link 6cda7552-55a8-dea5-a345-e56817f1529d "PDF" %}})
 
-Circumference of the Ellipse ([PDF]({{< baseurl >}}/resources/lecture10))
+Circumference of the Ellipse ({{% resource_link ba55f125-ff40-ef9d-5f4e-2e6c1a4668b3 "PDF" %}})
 
-Extrapolation ([PDF]({{< baseurl >}}/resources/lecture11))
+Extrapolation ({{% resource_link 411da193-c658-a177-0b80-e422f149a54d "PDF" %}})
 
-Growth of Weeds ([PDF]({{< baseurl >}}/resources/weed))
+Growth of Weeds ({{% resource_link 1c22a75c-4a8e-9ee3-abc0-cf3dbeca4aab "PDF" %}})
 
-Gauss/Laguerre Quadrature ([PDF]({{< baseurl >}}/resources/lecture13))
+Gauss/Laguerre Quadrature ({{% resource_link dada17d6-b0f5-5fad-f367-0d029337efad "PDF" %}})
 
 
 {{< tdclose >}}
@@ -87,15 +89,15 @@ ODEs: Initial-Value Problems for Ordinary Differential Equations
 {{< tdopen >}}
 
 
-Errors vs Evaluations ([PDF]({{< baseurl >}}/resources/error))
+Errors vs Evaluations ({{% resource_link 31359c1d-21fd-023c-24fc-25c34692fb94 "PDF" %}})
 
-ODE via Taylor Series ([PDF]({{< baseurl >}}/resources/lecture14))
+ODE via Taylor Series ({{% resource_link b01fdaaf-ff83-1560-2e54-e2c3d0d49106 "PDF" %}})
 
-Rates of Convergence ([PDF]({{< baseurl >}}/resources/ratesofconvergence))
+Rates of Convergence ({{% resource_link 6f329dad-092d-9694-30c2-9d0832b8324b "PDF" %}})
 
-One e = 0.6 Kepler Orbit ([PDF]({{< baseurl >}}/resources/lecture15))
+One e = 0.6 Kepler Orbit ({{% resource_link b58967ac-38f3-5841-5b9d-4237d2cd444e "PDF" %}})
 
-Toward J{{< sub "0" >}} (r) ([PDF]({{< baseurl >}}/resources/lecture16))
+Toward J{{< sub "0" >}} (r) ({{% resource_link 2f580044-fe2b-e485-8a17-ab9674792b14 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -111,13 +113,13 @@ Ax=b: Direct Methods for Solving Linear Algebra
 {{< tdopen >}}
 
 
-Wilkinson's example ([PDF]({{< baseurl >}}/resources/lecture17))
+Wilkinson's example ({{% resource_link 0f69e995-3925-37d5-8fd0-51a613b2c0c2 "PDF" %}})
 
-Condition Number ([PDF]({{< baseurl >}}/resources/lecture18))
+Condition Number ({{% resource_link 01a49944-b33e-c17a-0bf4-d1294f4fea71 "PDF" %}})
 
-Ax = b Iterations ([PDF]({{< baseurl >}}/resources/lecture19))
+Ax = b Iterations ({{% resource_link 9bf2972d-4154-8dc4-8b39-f4c933787d49 "PDF" %}})
 
-Rates of SOR Convergence ([PDF]({{< baseurl >}}/resources/lecture20))
+Rates of SOR Convergence ({{% resource_link 705078b5-0d2a-2d68-e138-61ccff43df2b "PDF" %}})
 
 
 {{< tdclose >}}
@@ -133,17 +135,17 @@ Ax=λx: Iterative Techniques in Matrix Algebra; Approximating Eigenvalues
 {{< tdopen >}}
 
 
-Householder Reflections ([PDF]({{< baseurl >}}/resources/lecture22))
+Householder Reflections ({{% resource_link 37897ad5-19ab-53b7-ddd9-70e75a707a9b "PDF" %}})
 
-Jacobi's Method of Successive 2D Rotations ([PDF]({{< baseurl >}}/resources/lecture23))
+Jacobi's Method of Successive 2D Rotations ({{% resource_link 9a88f14a-e8a2-80c9-57a1-0ceefe630507 "PDF" %}})
 
-Precursor to Problem 36 ([PDF]({{< baseurl >}}/resources/precursor))
+Precursor to Problem 36 ({{% resource_link 449a0369-5d40-16de-e09f-6c3b1da75998 "PDF" %}})
 
-Eigenvalues ([PDF]({{< baseurl >}}/resources/lecture24))
+Eigenvalues ({{% resource_link 555d92f7-4e7a-77e8-c17a-b2e4dc7965c6 "PDF" %}})
 
-The Geometry of QR ([PDF]({{< baseurl >}}/resources/lecture25))
+The Geometry of QR ({{% resource_link 423be923-13db-0b07-139b-b425ae39904f "PDF" %}})
 
-Eigenvalues of Chain Matrix ([PDF]({{< baseurl >}}/resources/lecture26))
+Eigenvalues of Chain Matrix ({{% resource_link b5562780-6602-8ffe-4d99-55a540ca8ad5 "PDF" %}})
 
 
 {{< tdclose >}}

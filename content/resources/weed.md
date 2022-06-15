@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/18-330-introduction-to-numerical-analysis-spring-2004/1c22a75c4a8e9ee3abc0cf3dbeca4aab_weed.pdf
+file: /courses/18-330-introduction-to-numerical-analysis-spring-2004/1c22a75c4a8e9ee3abc0cf3dbeca4aab_weed.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
