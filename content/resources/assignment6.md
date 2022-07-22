@@ -5,6 +5,7 @@ file: /courses/18-330-introduction-to-numerical-analysis-spring-2004/94029f7b27f
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: assignment6.pdf
 uid: 94029f7b-27f2-f56d-8240-69163e4627a5
 ---
 This resource has problems for extrapolation and Gaussian quadrature.
-

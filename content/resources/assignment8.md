@@ -6,6 +6,7 @@ file: /courses/18-330-introduction-to-numerical-analysis-spring-2004/f4e9808451e
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: assignment8.pdf
 uid: f4e98084-51e7-33d3-d549-dd071124e3f0
 ---
 This resource has problems for Runge-Kutta method, simple Euler, Milne predictor and fully-iterated-corrector scheme.
-

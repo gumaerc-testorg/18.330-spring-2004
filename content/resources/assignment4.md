@@ -5,6 +5,7 @@ file: /courses/18-330-introduction-to-numerical-analysis-spring-2004/f24f166ce09
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: assignment4.pdf
 uid: f24f166c-e096-8d79-1239-dc7c1ab8e2fd
 ---
 This resource has problems for Newton-Cotes, Euler/Maclaurin method.
-

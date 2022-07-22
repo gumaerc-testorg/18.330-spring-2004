@@ -5,6 +5,7 @@ file: /courses/18-330-introduction-to-numerical-analysis-spring-2004/550ddc9a618
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: assignment7.pdf
 uid: 550ddc9a-6186-3935-6dd9-684b2339783b
 ---
 This resource has problems for Euler method and Taylor series.
-
