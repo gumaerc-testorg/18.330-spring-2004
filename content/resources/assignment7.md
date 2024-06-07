@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource has problems for Euler method and Taylor series.
 file: /courses/18-330-introduction-to-numerical-analysis-spring-2004/550ddc9a618639356dd9684b2339783b_assignment7.pdf
+file_size: 90327
 file_type: application/pdf
 learning_resource_types:
 - Assignments
