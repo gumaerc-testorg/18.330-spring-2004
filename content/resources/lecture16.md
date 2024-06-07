@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture handout.
 file: /courses/18-330-introduction-to-numerical-analysis-spring-2004/2f580044fe2be4858a17ab9674792b14_lecture16.pdf
+file_size: 127004
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
