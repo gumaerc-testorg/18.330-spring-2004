@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file discusses about Eispack in action.
-file: /courses/18-330-introduction-to-numerical-analysis-spring-2004/49228b62ec0421e428f1ef3b44735457_lecture21.pdf
+file: /ol-ocw-studio-app/courses/18-330-introduction-to-numerical-analysis-spring-2004/49228b62ec0421e428f1ef3b44735457_lecture21.pdf
 file_size: 18242
 file_type: application/pdf
 learning_resource_types:

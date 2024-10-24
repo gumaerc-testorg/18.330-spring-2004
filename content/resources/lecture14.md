@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture handout.
-file: /courses/18-330-introduction-to-numerical-analysis-spring-2004/b01fdaafff8315602e54e2c3d0d49106_lecture14.pdf
+file: /ol-ocw-studio-app/courses/18-330-introduction-to-numerical-analysis-spring-2004/b01fdaafff8315602e54e2c3d0d49106_lecture14.pdf
 file_size: 57818
 file_type: application/pdf
 learning_resource_types:
