@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource has problems for extrapolation and Gaussian quadrature.
-file: /courses/18-330-introduction-to-numerical-analysis-spring-2004/94029f7b27f2f56d824069163e4627a5_assignment6.pdf
+file: /ol-ocw-studio-app/courses/18-330-introduction-to-numerical-analysis-spring-2004/94029f7b27f2f56d824069163e4627a5_assignment6.pdf
 file_size: 29606
 file_type: application/pdf
 learning_resource_types:
