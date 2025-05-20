@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture handout containing Bernoulli numbers table.
-file: /ol-ocw-studio-app/courses/18-330-introduction-to-numerical-analysis-spring-2004/3ebc6284eecaad06c66fde5b29bebb53_Bernoullino.pdf
+file: /courses/18-330-introduction-to-numerical-analysis-spring-2004/3ebc6284eecaad06c66fde5b29bebb53_Bernoullino.pdf
 file_size: 64627
 file_type: application/pdf
 learning_resource_types:
