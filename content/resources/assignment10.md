@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource has problems for inverse power method and iterations.
-file: /ol-ocw-studio-app/courses/18-330-introduction-to-numerical-analysis-spring-2004/650b669f34c3f4a3687e1f65bce36831_assignment10.pdf
+file: /courses/18-330-introduction-to-numerical-analysis-spring-2004/650b669f34c3f4a3687e1f65bce36831_assignment10.pdf
 file_size: 23793
 file_type: application/pdf
 learning_resource_types:
