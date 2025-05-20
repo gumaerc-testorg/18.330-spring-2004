@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/18-330-introduction-to-numerical-analysis-spring-2004/449a03695d4016dee09f6c3b1da75998_PREcursor.pdf
+file: /courses/18-330-introduction-to-numerical-analysis-spring-2004/449a03695d4016dee09f6c3b1da75998_PREcursor.pdf
 file_size: 35159
 file_type: application/pdf
 learning_resource_types:
